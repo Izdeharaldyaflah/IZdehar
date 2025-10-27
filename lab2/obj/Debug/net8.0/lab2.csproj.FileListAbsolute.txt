@@ -1,0 +1,15 @@
+/workspaces/IZdehar/lab2/bin/Debug/net8.0/lab2
+/workspaces/IZdehar/lab2/bin/Debug/net8.0/lab2.deps.json
+/workspaces/IZdehar/lab2/bin/Debug/net8.0/lab2.runtimeconfig.json
+/workspaces/IZdehar/lab2/bin/Debug/net8.0/lab2.dll
+/workspaces/IZdehar/lab2/bin/Debug/net8.0/lab2.pdb
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.AssemblyInfoInputs.cache
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.AssemblyInfo.cs
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.csproj.CoreCompileInputs.cache
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.sourcelink.json
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.dll
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/refint/lab2.dll
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.pdb
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/lab2.genruntimeconfig.cache
+/workspaces/IZdehar/lab2/obj/Debug/net8.0/ref/lab2.dll
